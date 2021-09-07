@@ -10,9 +10,7 @@
 #### Contact With Me
 - 📞 (+880) 1616-502240 (Whatsapp)
 - 💌 delowar153@gmail.com
-- <a target="_blank" href="mailto:delowar153@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  <\a>
+- (https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=2566C2&logo=gmail&logoColor=ffffff)
 
 
 <br/>
