@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**amidelu/amidelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### I'm [Mohammad Delowar Hossain!] 👋
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=2566C2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/delowar-hossain-profile)  [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=2566C2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/techbeetle)   [![Facebook Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/delowarhossainbio)  [![Twitter Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://www.twitter.com/delowarhtweet) [![Github Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=github&logoColor=ffffff)](https://github.com/amidelu) [![Bitbucket Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=bitbucket&logoColor=ffffff)](https://bitbucket.com/amidelu)
@@ -12,6 +10,9 @@
 #### Contact With Me
 - 📞 (+880) 1616-502240 (Whatsapp)
 - 💌 delowar153@gmail.com
+- <a target="_blank" href="mailto:delowar153@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <\a>
 
 
 <br/>
