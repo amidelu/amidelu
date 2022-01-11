@@ -17,7 +17,7 @@
 Something about me:
 
 - 🔭 I’m currently working on Mobile Application Development using Flutter Framework
-- 🌱 I’m currently learning Flutter Clean Code Theory
+- 🌱 I’m currently learning NodeJS for backend server
 - 👯 I’m looking to collaborate on Flutter Projects
 - 🤔 I’m looking for help with Dart Programming language
 - 💬 Ask me about Flutter, Hardware, Linux, Windows, Mac OS, Server Administration
