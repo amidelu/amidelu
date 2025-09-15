@@ -1,25 +1,99 @@
-### Hi there 👋
+# Hi there 👋, I'm Mohammad Delowar Hossain  
 
-### I'm [Mohammad Delowar Hossain!] 👋
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delowar-hossain-profile) 
+[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techbeetle) 
+[![Facebook Connect](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/delowarhossainbio) 
+[![Twitter Follow](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/delowarhtweet) 
+[![GitHub Follow](https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amidelu) 
+[![Bitbucket Follow](https://img.shields.io/badge/Bitbucket-Connect-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.com/amidelu)
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=2566C2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/delowar-hossain-profile)  [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=2566C2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/techbeetle)   [![Facebook Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/delowarhossainbio)  [![Twitter Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://www.twitter.com/delowarhtweet) [![Github Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=github&logoColor=ffffff)](https://github.com/amidelu) [![Bitbucket Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=bitbucket&logoColor=ffffff)](https://bitbucket.com/amidelu)
+---
 
-<br/>
+## 📞 Contact Me  
+- **Phone/WhatsApp:** (+880) 1616-502240  
+- **Email:** [delowar153@gmail.com](mailto:delowar153@gmail.com)  
 
+---
 
-#### Contact With Me
-- 📞 (+880) 1616-502240 (Whatsapp)
-- 💌 delowar153@gmail.com
+## 👨‍💻 About Me  
+- 🔭 Currently working on **Mobile Application Development** using **Flutter**
+- 👯 Open to collaborate on **Flutter Projects**  
+- 🤔 Exploring deeper into **Dart** programming language  
+- 💬 Ask me about **Flutter, Hardware, Linux, Windows, macOS, Server Administration**  
+- ⚡ Fun fact: I spend most of my free time learning **new technologies & innovations**  
 
+---
 
-<br/>
+## 🚀 Projects (Mobile Apps)  
 
-Something about me:
+### 📱 Project 1 – Rice Solution  
+> A simple and intuitive app for farmers to identify the rice plant diseases using AI.  
 
-- 🔭 I’m currently working on Mobile Application Development using Flutter Framework
-- 🌱 I’m currently learning NodeJS for backend server
-- 👯 I’m looking to collaborate on Flutter Projects
-- 🤔 I’m looking for help with Dart Programming language
-- 💬 Ask me about Flutter, Hardware, Linux, Windows, Mac OS, Server Administration
-- ⚡ Fun fact: Spend maximum free time in learning new technology and things
+<a href="https://play.google.com/store/apps/details?id=com.brriapps" target="_blank">
+  <img src="https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>  
+<a href="https://apps.apple.com/us/app/rice-solution/id1663661762" target="_blank">
+  <img src="https://img.shields.io/badge/Download-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" />
+</a> 
 
+---
+
+### 📱 Project 2 – Averroes International School
+> School management app for an English Medium School.  
+
+<a href="https://play.google.com/store/apps/details?id=com.edu.aisd.averroes_intl_school" target="_blank">
+  <img src="https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>  
+
+---
+
+### 📱 Project 3 – No Chinta Home Healthcare
+> A medical service related app.  
+
+<a href="https://play.google.com/store/apps/details?id=com.oneict.no_chinta_home_healthcare" target="_blank">
+  <img src="https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>
+
+---
+
+### 📱 Project 4 – OPL FMS
+> A marketing sales person tracking app.  
+
+<a href="https://play.google.com/store/apps/details?id=com.onepharmaltd" target="_blank">
+  <img src="https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>
+
+---
+
+### 📱 Project 5 – DIU-Students
+> A student app for University students.
+
+<a href="https://play.google.com/store/apps/details?id=ac.diu.diu_app" target="_blank">
+  <img src="https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>
+
+---
+
+### 📱 Project 6 – DIU-CMS
+> A cms app for employees.
+
+<a href="https://play.google.com/store/apps/details?id=ac.diu.diu_cms" target="_blank">
+  <img src="https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>
+
+---
+
+## 🛠 Tech Stack  
+
+**Languages & Frameworks:**  
+- Dart, Flutter, Java, JavaScript, Node.js  
+
+**Tools & Platforms:**  
+- Firebase, MySQL, Git, Docker, Linux, Android, iOS  
+
+**Other Expertise:**  
+- Server Administration, Cloud Setup, Hardware Solutions  
+
+---
+
+⭐️ *If you like my work, don’t forget to star my repositories and follow me!*  
