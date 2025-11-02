@@ -43,7 +43,7 @@
 > A simple and intuitive app for farmers to identify the rice plant diseases using AI.
 
 **Tech Stack**
-> React Native
+> React Native.  
 
 <a href="https://play.google.com/store/apps/details?id=com.brriapps" target="_blank">
   <img src="https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
@@ -58,9 +58,9 @@
 > School management app for an English Medium School.
 
 **Tech Stack**
-> Language: Dart
-> Framework: Flutter
-> State Management: BLOC
+> Language: Dart.  
+> Framework: Flutter. 
+> State Management: BLOC. 
 
 <a href="https://play.google.com/store/apps/details?id=com.edu.aisd.averroes_intl_school" target="_blank">
   <img src="https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
@@ -72,9 +72,9 @@
 > A medical service related app.
 
 **Tech Stack**
-> Language: Dart
-> Framework: Flutter
-> State Management: GetX
+> Language: Dart. 
+> Framework: Flutter. 
+> State Management: GetX. 
 
 <a href="https://play.google.com/store/apps/details?id=com.oneict.no_chinta_home_healthcare" target="_blank">
   <img src="https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
@@ -86,8 +86,8 @@
 > A marketing sales person tracking app.
 
 **Tech Stack**
-> Language: Java
-> Native Android
+> Language: Java. 
+> Native Android. 
 
 <a href="https://play.google.com/store/apps/details?id=com.onepharmaltd" target="_blank">
   <img src="https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
@@ -99,9 +99,9 @@
 > A student app for University students.
 
 **Tech Stack**
-> Language: Dart
-> Framework: Flutter
-> State Management: GetX
+> Language: Dart. 
+> Framework: Flutter. 
+> State Management: GetX. 
 
 <a href="https://play.google.com/store/apps/details?id=ac.diu.diu_app" target="_blank">
   <img src="https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
@@ -113,9 +113,9 @@
 > A cms app for employees.
 
 **Tech Stack**
-> Language: Dart
-> Framework: Flutter
-> State Management: GetX
+> Language: Dart. 
+> Framework: Flutter. 
+> State Management: GetX. 
 
 <a href="https://play.google.com/store/apps/details?id=ac.diu.diu_cms" target="_blank">
   <img src="https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
